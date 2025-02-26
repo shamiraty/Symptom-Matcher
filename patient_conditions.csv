@@ -1,0 +1,101 @@
+id,age,disease,symptoms,doctor_comment
+1,45,Diabetes,"Fatigue, thirst",Monitor blood sugar regularly
+2,50,Hypertension,"Headache, dizziness",Reduce salt intake
+3,46,Diabetes,"Blurred vision, thirst",Increase water intake
+4,30,Asthma,Shortness of breath,Use inhaler regularly
+5,48,Diabetes,"Fatigue, slow healing wounds",Exercise regularly
+6,60,Hypertension,"Chest pain, dizziness",Avoid stress and monitor blood pressure
+7,35,Asthma,"Wheezing, coughing","Avoid triggers, use inhaler as needed"
+8,55,Diabetes,"Frequent urination, fatigue",Check blood sugar levels regularly
+9,40,Hypertension,"Headache, blurred vision",Take prescribed medication and reduce salt intake
+10,62,Heart Disease,"Chest pain, shortness of breath","Avoid physical strain, follow medication plan"
+11,49,Diabetes,"Frequent hunger, blurred vision",Monitor insulin levels and exercise regularly
+12,41,Asthma,"Breathlessness, coughing",Keep inhalers handy and avoid allergens
+13,38,Hypertension,"Fatigue, headache",Monitor blood pressure regularly and reduce stress
+14,47,Arthritis,"Joint pain, swelling",Consider physical therapy and anti-inflammatory medication
+15,53,Asthma,"Coughing, wheezing",Avoid cold air and use inhaler regularly
+16,58,Diabetes,"Increased thirst, fatigue",Maintain healthy diet and exercise routine
+17,32,Hypertension,"Chest tightness, dizziness",Regular monitoring and reduce alcohol consumption
+18,44,Diabetes,"Frequent urination, blurred vision",Adjust diet and monitor glucose levels
+19,52,Asthma,"Wheezing, difficulty breathing",Use inhalers before physical activity
+20,41,Hypertension,"Dizziness, chest pain",Maintain medication and reduce fat intake
+21,63,Heart Disease,"Shortness of breath, chest pain",Avoid physical strain and follow cardiac care plan
+22,37,Diabetes,"Fatigue, excessive thirst",Track blood sugar and exercise regularly
+23,50,Asthma,"Coughing, wheezing",Keep medication on hand and avoid allergens
+24,29,Hypertension,"Headache, blurred vision",Exercise and monitor salt intake
+25,56,Heart Disease,"Dizziness, shortness of breath",Exercise gently and follow prescribed medications
+26,39,Diabetes,"Blurred vision, fatigue",Regular exercise and avoid sugar-rich foods
+27,48,Asthma,"Coughing, difficulty breathing",Use inhaler and avoid exposure to cold air
+28,61,Hypertension,"Dizziness, fatigue",Reduce salt intake and follow medication plan
+29,33,Asthma,"Coughing, chest tightness",Avoid allergens and use inhaler regularly
+30,45,Diabetes,"Fatigue, blurred vision",Maintain blood sugar levels and monitor regularly
+31,59,Heart Disease,"Shortness of breath, chest tightness",Avoid exertion and monitor heart health regularly
+32,40,Diabetes,"Increased hunger, fatigue",Check glucose levels and eat balanced meals
+33,60,Hypertension,"Headache, dizziness",Monitor blood pressure and reduce sodium intake
+34,43,Asthma,"Wheezing, coughing",Use inhalers regularly and avoid allergens
+35,51,Diabetes,"Frequent urination, blurry vision",Control diet and monitor sugar levels regularly
+36,54,Hypertension,"Dizziness, headache",Reduce salt intake and exercise regularly
+37,29,Heart Disease,"Fatigue, chest pain",Follow a heart-healthy diet and exercise plan
+38,31,Diabetes,"Thirst, fatigue",Maintain balanced blood sugar levels and diet
+39,44,Hypertension,"Headache, blurry vision",Monitor blood pressure and reduce caffeine intake
+40,50,Asthma,"Breathing difficulty, wheezing",Avoid triggers and follow inhaler regimen
+41,34,Heart Disease,"Chest tightness, shortness of breath",Avoid stress and physical exertion
+42,52,Diabetes,"Increased thirst, slow healing wounds",Control blood sugar and exercise regularly
+43,49,Hypertension,"Headache, dizziness",Take prescribed medication and limit salt intake
+44,46,Asthma,"Shortness of breath, coughing",Keep inhalers on hand and avoid allergens
+45,56,Heart Disease,"Chest pain, shortness of breath",Monitor heart condition and limit strenuous activities
+46,32,Diabetes,"Thirst, fatigue",Monitor glucose and maintain regular exercise
+47,45,Hypertension,"Headache, blurred vision",Monitor blood pressure and reduce alcohol consumption
+48,50,Asthma,"Breathing difficulty, wheezing",Avoid triggers and follow inhaler regimen
+49,43,Heart Disease,"Chest tightness, dizziness",Avoid physical strain and follow heart medications
+50,61,Diabetes,"Excessive thirst, blurry vision",Monitor blood sugar and stay active
+51,63,Hypertension,"Dizziness, blurry vision",Use prescribed medications and reduce stress
+52,55,Diabetes,"Fatigue, blurred vision",Keep glucose levels under control
+53,62,Asthma,"Difficulty breathing, coughing",Use inhaler as prescribed
+54,58,Heart Disease,"Shortness of breath, chest pain",Limit physical strain and follow heart care plan
+55,44,Hypertension,"Dizziness, headache",Follow a low-sodium diet and take medication
+56,33,Asthma,"Wheezing, coughing",Use inhalers regularly and avoid dust
+57,47,Diabetes,"Frequent urination, blurred vision",Monitor blood sugar and follow a diet plan
+58,36,Hypertension,"Headache, dizziness",Monitor blood pressure and reduce sodium intake
+59,51,Heart Disease,"Fatigue, chest pain",Follow a healthy diet and exercise regularly
+60,49,Asthma,"Wheezing, chest tightness",Use inhalers regularly and monitor breathing
+61,59,Diabetes,"Blurred vision, fatigue",Maintain glucose levels and exercise regularly
+62,55,Hypertension,"Dizziness, fatigue",Monitor blood pressure and avoid stress
+63,44,Asthma,"Wheezing, shortness of breath",Take prescribed inhalers regularly
+64,51,Heart Disease,"Fatigue, shortness of breath",Follow diet and exercise routine for heart health
+65,47,Diabetes,"Blurred vision, fatigue",Maintain a healthy diet and exercise regularly
+66,60,Hypertension,"Dizziness, headache",Monitor blood pressure and take medications as prescribed
+67,43,Asthma,"Breathlessness, wheezing",Avoid cold air and use inhaler regularly
+68,58,Heart Disease,"Chest tightness, shortness of breath",Monitor heart condition and avoid physical exertion
+69,51,Diabetes,"Fatigue, increased thirst",Regularly check blood sugar and exercise
+70,63,Hypertension,"Blurred vision, dizziness",Follow blood pressure plan and avoid stress
+71,44,Asthma,"Breathing difficulty, coughing",Avoid triggers and use inhaler as prescribed
+72,33,Heart Disease,"Shortness of breath, dizziness",Monitor heart health and reduce stress
+73,47,Diabetes,"Frequent urination, blurry vision",Monitor glucose levels and maintain regular exercise
+74,40,Hypertension,"Headache, blurred vision",Reduce sodium intake and avoid stress
+75,52,Asthma,"Shortness of breath, coughing",Use inhaler regularly and avoid allergens
+76,55,Heart Disease,"Chest pain, shortness of breath",Limit strenuous activity and follow heart medications
+77,61,Diabetes,"Blurred vision, frequent thirst",Control diet and exercise regularly
+78,45,Hypertension,"Dizziness, headache",Monitor blood pressure and take medications as prescribed
+79,50,Asthma,"Wheezing, difficulty breathing",Use inhalers regularly and avoid allergens
+80,34,Heart Disease,"Chest pain, dizziness",Follow a healthy heart plan and monitor symptoms
+81,49,Diabetes,"Fatigue, excessive thirst",Track blood sugar and exercise regularly
+82,44,Hypertension,"Dizziness, headache",Limit caffeine and sodium intake
+83,52,Asthma,"Breathing difficulty, coughing",Avoid allergens and use inhaler regularly
+84,50,Heart Disease,"Shortness of breath, chest pain",Avoid physical strain and follow heart health plan
+85,38,Diabetes,"Frequent urination, thirst",Monitor blood sugar and exercise regularly
+86,45,Hypertension,"Fatigue, dizziness",Monitor blood pressure and reduce salt intake
+87,63,Asthma,"Breathing difficulty, coughing",Use inhalers regularly and avoid allergens
+88,39,Heart Disease,"Chest tightness, fatigue",Follow a heart-healthy diet and exercise regularly
+89,51,Diabetes,"Blurred vision, fatigue",Maintain blood sugar levels and exercise regularly
+90,63,Hypertension,"Dizziness, blurry vision",Monitor blood pressure and follow prescribed regimen
+91,58,Asthma,"Breathing difficulty, wheezing",Use inhalers regularly and avoid cold air
+92,54,Heart Disease,"Fatigue, shortness of breath",Follow a healthy heart care plan
+93,39,Diabetes,"Excessive thirst, fatigue",Maintain balanced blood sugar levels
+94,40,Hypertension,"Headache, dizziness",Exercise and monitor blood pressure regularly
+95,41,Asthma,"Coughing, difficulty breathing",Use inhaler and avoid triggers
+96,55,Diabetes,"Fatigue, blurry vision",Monitor glucose levels and exercise regularly
+97,48,Hypertension,"Dizziness, headache",Monitor blood pressure regularly and take prescribed medication
+98,50,Asthma,"Wheezing, coughing",Use inhaler as prescribed and avoid exposure to allergens
+99,47,Heart Disease,"Fatigue, chest pain",Follow a heart-healthy diet and exercise regularly
+100,51,Diabetes,"Increased thirst, blurred vision",Maintain blood sugar levels and exercise regularly
