@@ -15,7 +15,7 @@ df = pd.read_csv("patient_conditions.csv")
 #df = pd.DataFrame(data)
 
 # Function to Recommend Similar Patients
-def recommend_patients(selected_id, top_n=7):
+def recommend_patients(selected_id, top_n=10):
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform(df["disease"] + " " + df["symptoms"])
     similarity_matrix = cosine_similarity(tfidf_matrix)
